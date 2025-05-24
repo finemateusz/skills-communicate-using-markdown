@@ -7,3 +7,7 @@
 ## Working on markdown tutorial.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+def greet():
+    print("Hello, GitHub!")
